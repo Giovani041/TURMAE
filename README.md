@@ -1,5 +1,5 @@
 # TURMAE
--Meu projeto é um site de comercio de alimentos(Alimentos Ilha Grande) 
+-Meu projeto é um site de comercio de alimentos(Alimentos Ilha Grande)
 -Estou utilizando o HTML 
 -Apenas eu estou programando no momento 
 -Licença de uso
